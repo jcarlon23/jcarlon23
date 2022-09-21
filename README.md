@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm James</h1>
 <h3 align="center">A passionate Full-stack developer from Australia.</h3>
 
-- 🌱 I have finished an intensive full-time 9 week course in Full-stack development. **Which included HTML, CSS, Javascript, Ruby and Ruby on Rails through the Le Wagon bootcamp batch 990!**
+- 🌱 Intensive full-time 9 week course in Full-stack development. **Which included HTML, CSS, Javascript, Ruby and Ruby on Rails through the Le Wagon bootcamp batch 990!**
 
 - 📫 How to reach me **james.carlon1984@outlook.com**
 
